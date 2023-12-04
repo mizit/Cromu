@@ -38,10 +38,10 @@
     {"id":{"name":"spr_hero","path":"sprites/spr_hero/spr_hero.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"scr_startup","path":"scripts/scr_startup/scr_startup.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"r_ground","path":"rooms/r_ground/r_ground.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"r_ground","path":"rooms/r_ground/r_ground.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
