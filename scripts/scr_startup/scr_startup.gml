@@ -26,4 +26,6 @@ function scr_startup(){
 	#macro RIGHT 2
 	#macro UP 4
 	#macro DOWN 8
+	
+	#macro CELL_SIZE 32
 }
