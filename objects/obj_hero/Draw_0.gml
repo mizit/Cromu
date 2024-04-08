@@ -1,5 +1,5 @@
 var _row = 0;
-switch(move)
+/*switch(move)
 {
 	case (DOWN):
 		_row = 0;
@@ -25,7 +25,9 @@ switch(move)
 	case (LEFT | DOWN):
 		_row = CELL_SIZE * 7;
 	break;
-}
+}*/
+
+_row = ((round(point_direction(x, y, mouse_x, mouse_y) / 45) + 2) % 8) * CELL_SIZE;
 
 
 draw_sprite_part(sprite_index, 0, round(img_idx) * CELL_SIZE, _row, CELL_SIZE, CELL_SIZE, x, y);
