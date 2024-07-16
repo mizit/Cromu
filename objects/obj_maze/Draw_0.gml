@@ -29,5 +29,7 @@ for (_x = _view_x; _x < _view_xw; _x++)
 		{
 			draw_sprite(spr_wall, -1, _x * size, _y * size);
 		}
+		if (cells[_x][_y].attraction > 0)
+			draw_text(_x*size, _y*size, cells[_x][_y].attraction);
 	}
 }

@@ -32,10 +32,11 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"scr_keyboard_movement_check","path":"scripts/scr_keyboard_movement_check/scr_keyboard_movement_check.yy",},},
+    {"id":{"name":"obj_foe","path":"objects/obj_foe/obj_foe.yy",},},
     {"id":{"name":"scr_maze_sqr_collide","path":"scripts/scr_maze_sqr_collide/scr_maze_sqr_collide.yy",},},
     {"id":{"name":"ob_bresenham_test","path":"objects/ob_bresenham_test/ob_bresenham_test.yy",},},
     {"id":{"name":"spr_hero","path":"sprites/spr_hero/spr_hero.yy",},},
@@ -43,7 +44,10 @@
     {"id":{"name":"obj_light","path":"objects/obj_light/obj_light.yy",},},
     {"id":{"name":"scr_maze_get_cell","path":"scripts/scr_maze_get_cell/scr_maze_get_cell.yy",},},
     {"id":{"name":"scr_startup","path":"scripts/scr_startup/scr_startup.yy",},},
+    {"id":{"name":"s_foe","path":"sprites/s_foe/s_foe.yy",},},
+    {"id":{"name":"scr_cell_attraction_update","path":"scripts/scr_cell_attraction_update/scr_cell_attraction_update.yy",},},
     {"id":{"name":"obj_maze","path":"objects/obj_maze/obj_maze.yy",},},
+    {"id":{"name":"scr_attraction_update","path":"scripts/scr_attraction_update/scr_attraction_update.yy",},},
     {"id":{"name":"scr_cell","path":"scripts/scr_cell/scr_cell.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"scr_maze_line_collide","path":"scripts/scr_maze_line_collide/scr_maze_line_collide.yy",},},
