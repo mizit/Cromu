@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_keyboard_movement_check",
   "isCompatibility":false,
   "isDnD":false,

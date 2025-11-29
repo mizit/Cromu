@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_cell",
   "isCompatibility":false,
   "isDnD":false,

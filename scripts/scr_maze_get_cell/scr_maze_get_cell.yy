@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_maze_get_cell",
   "isCompatibility":false,
   "isDnD":false,
